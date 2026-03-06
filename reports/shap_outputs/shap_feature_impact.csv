@@ -1,0 +1,15 @@
+feature,mean_abs_shap
+Categories,0.6609907152571066
+Price,0.5923923773374646
+Achievements,0.5216250390785457
+Genres,0.5201853577753687
+DiscountDLC count,0.4931922925932804
+Publishers,0.4448320499529496
+Mac,0.31378936689412074
+Required age,0.303883442729193
+Developers,0.2854304625876448
+Linux,0.04043863725764143
+release_month,0.0
+release_year,0.0
+release_quarter,0.0
+Windows,0.0
