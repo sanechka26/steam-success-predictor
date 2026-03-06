@@ -1,5 +1,3 @@
-
-```markdown
 # 🎮 Steam Success Predictor
 
 **Machine Learning модель для предсказания успеха игр на платформе Steam**
