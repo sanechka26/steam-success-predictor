@@ -1,4 +1,3 @@
-Понял! Вот **полный текст README.md** одним блоком — просто скопируй и вставь в файл:
 
 ```markdown
 # 🎮 Steam Success Predictor
